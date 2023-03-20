@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uhe5iFg6saALZJLDncoMGxTO2Mga0AqNHdOtz4Yv8ydfXuaN2mr4/5tEU//eP/z991uU620nUpx3swRk7RIs4w==",
+  "success": true,
+  "projectFilePath": "/Users/ctw01761-admin/RiderProjects/BuilderPractise/BuilderPractise/BuilderPractise.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifacts.connected.bmw/artifactory/api/nuget/runtime-nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
